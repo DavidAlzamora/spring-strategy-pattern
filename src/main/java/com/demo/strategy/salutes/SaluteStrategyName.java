@@ -4,5 +4,6 @@ public enum SaluteStrategyName {
     ENGLISH,
     SPANISH,
     FRENCH,
-    GERMAN
+    GERMAN,
+    MALLORQUIN;
 }
